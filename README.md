@@ -16,4 +16,4 @@ result
 
 This code made for educational.
 
-Thanks :)
+
