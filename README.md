@@ -1,4 +1,3 @@
-# email-spoofing-detector
 # Email-Spoofing-Detector
 
 This python script will check email massage spoofed or not.
